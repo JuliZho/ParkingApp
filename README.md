@@ -9,6 +9,7 @@ This repository contains automated testing scripts for a web application using P
 - `constants.js`: Stores constant values used across multiple test scripts.
 - `commonFunctions.js`: Helper functions that support test logic.
 - `ParkingApp.test.js`: Main test script file containing Playwright tests.
+- `playwright.config.js` : Configuration file.
 
 ## Additional Documentation
 
