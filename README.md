@@ -13,7 +13,7 @@ This repository contains automated testing scripts for a web application using P
 
 ## Additional Documentation
 
-- [Test Plan for Parking Cost Calculator](TestPlan_ParkingCostCalculator.pdf)
+- `TestPlan_ParkingCostCalculator.pdf` : Test plan.
 
 ## Usage
 
